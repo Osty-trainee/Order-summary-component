@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Link](https://github.com/Osty-trainee/Order-summary-component)
-- Live Site URL: [Live Site Link](https://osty-trainee.github.io/Order-summary-card/)
+- Live Site URL: [Live Site Link](https://osty-trainee.github.io/Order-summary-component/)
 
 ## My process
 
